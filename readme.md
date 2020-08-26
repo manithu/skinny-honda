@@ -5,8 +5,8 @@
 *Once upon a time...*
 there was shortage of food in **his** life. 
 
-
-Here is `some code` in the middle of a sentence.
+Most of the day are the same.
+Here is `some thinking` in the middle of today.
 
 ```
 This pool
